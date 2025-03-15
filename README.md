@@ -4,7 +4,7 @@
 
 Projeto desenvolvido para prática de programação em Java utilizando o Framework Spring, consumindo de dados de APIs externas. O sistema simula uma plataforma de streaming de séries.
 
-Com essa aplicação é possível consultar séries na API do OMDB para obter seus dados.
+Com essa aplicação é possível consultar séries na API do OMDB para obter seus dados, como por exemplo os dados das temporadas e o nome dos episódios.
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
@@ -14,9 +14,10 @@ Com essa aplicação é possível consultar séries na API do OMDB para obter se
 - ``API OMDB``
 - ``Biblioteca Jackson``
 - ``Maven``
+- ``Lambdas``
 
 ## 📁 Acesso ao projeto
-Você pode acessar os arquivos do projeto [clicando aqui](https://github.com/maurilioga/screen_match_spring_sem_web/tree/main/src/br/com/estudos/screenmatchv2).
+Você pode acessar os arquivos do projeto [clicando aqui](https://github.com/maurilioga/screen_match_spring_sem_web/tree/main/src/main/java/br/com/estudos/screenmatchv2).
 
 # Autores
 
