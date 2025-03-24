@@ -28,7 +28,7 @@ public class Episodio {
             this.avaliacao = Double.valueOf(dadosEpisodio.avaliacao());
             this.dataLancamento = LocalDate.parse(dadosEpisodio.dataLancamento());
         } catch (NumberFormatException e) {
-            this.avaliacao = null;
+            this.avaliacao = 0.0;
         } catch (DateTimeParseException e) {
             this.dataLancamento = null;
         }
