@@ -1,10 +1,9 @@
 # Screen Match
-![Static Badge](https://img.shields.io/badge/status-em%20desenvolvimento-orange?style=for-the-badge
-)
+![Static Badge](https://img.shields.io/badge/STATUS-Conclu%C3%ADdo-GREEN?style=for-the-badge)
 
 Projeto desenvolvido para prática de programação em Java utilizando o Framework Spring, consumindo de dados de APIs externas. O sistema simula uma plataforma de streaming de séries.
 
-Com essa aplicação é possível consultar séries na API do OMDB para obter seus dados, como por exemplo os dados das temporadas e o nome dos episódios, além de listar os episódios mais bem avaliados e também episódios lançados a partir de determinado ano.
+Com essa aplicação é possível consultar séries na API do OMDB para obter seus dados, como por exemplo os dados das temporadas e o nome dos episódios, além de listar os episódios mais bem avaliados e também algumas estatisticas baseadas nas avaliações dos episódios.
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
